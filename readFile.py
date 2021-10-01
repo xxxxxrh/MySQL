@@ -6,7 +6,7 @@ datas=df.values
 # print(datas)
 
 #连接数据库
-db = pymysql.connect(host = '47.114.110.135',port = 3306,user = 'root',passwd = 'Xrh981025',database = 'ShangHaiData',charset = 'utf8')
+db = pymysql.connect(host = 'xxxxx',port = 3306,user = 'root',passwd = '****',database = 'xrhTest',charset = 'utf8')
 
 #获取游标
 cursor  = db.cursor()
