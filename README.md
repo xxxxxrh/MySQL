@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MySQL
 如何通过Js或者 python 远程连接 MySQL
 
@@ -14,4 +13,3 @@
 导入数据也可以先看看 readFile.py
 
 写的不好 见谅= =
->>>>>>> c495298 (ShangHaiData)
